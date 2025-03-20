@@ -45,7 +45,7 @@ section {
 .img-inicio {
     position: absolute;
     right: var(--alto-contraste-texto);
-    top: 10rem;
+    top: 19rem;
     width: 45rem;
     height: auto;
 }
