@@ -45,7 +45,7 @@ section {
 .img-inicio {
     position: absolute;
     right: var(--alto-contraste-texto);
-    top: 19rem;
+    top: 18rem;
     width: 45rem;
     height: auto;
 }
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #00ff15;
+    background-color: #00FF00;
 
 }
 
@@ -126,7 +126,7 @@ h2 {
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 255, 106, 0.1);
+    box-shadow: 0 0 10px rgb(4, 245, 56);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
