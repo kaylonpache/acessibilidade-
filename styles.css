@@ -72,7 +72,7 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/lossy-page1-640px-Jorge_Ben_e_o_Trio_Mocotó_no_Teatro_da_Lagoa\,_1971.tif.jpg') no-repeat bottom left;
+    background: url('img/limao_background.jpg') no-repeat bottom left; /* Imagem de fundo de limões */
     background-size: 180px 180px;
 }
 
@@ -162,4 +162,6 @@ h2 {
     color: var(--alto-contraste-texto);
 }
 
-.alto-contraste .nav-link 
+.alto-contraste .nav-link {
+    color: var(--alto-contraste-link);
+}
